@@ -1,4 +1,5 @@
 # Task: activity-logger
 
 ## Description
-Implement an activity-logger task following the requirements.
+Complete the implementation for activity-logger
+
